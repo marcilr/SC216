@@ -8,7 +8,7 @@ CSE-216 related links
 
 Links
 =====
-2U, 24x 2.5" HDDs, Storage Chassis
+2U chassis, 24x 2.5" HDDs, Storage Chassis
 SC216 series - Maximized Storage Chassis
 The SC216 Chassis maximizes storage capacity in a
 2U form factor by offering 24 hot-swap 2.5" SAS/SATA
