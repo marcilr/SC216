@@ -25,3 +25,50 @@ SuperChassis 216A-R900LPB
 Supports a number of single processor boards
 Some do support ECC
 https://www.supermicro.com/products/chassis/2U/216/SC216A-R900LPB
+
+Supermicro 2.5" HDD/SSD Server & Storage Solution
+o 2U, 24x 2.5" HDDs, Storage Chassis
+  SC216 series - Maximized Storage Chassis
+  The SC216 Chassis maximizes storage capacity in a
+  2U form factor by offering 24 hot-swap 2.5" SAS/SATA
+  hard drive bays for applications requiring extra storage.
+  The chassis design optimizes every aspect of interior
+  space without compromising superior cooling capabilities.
+  The chassis is equipped with a redundant Gold Level 1200W
+  (93%) or 900W high-efficiency power supply for outstanding
+  power savings, with specially designed optimized cooling.
+https://www.supermicro.com/products/nfo/2_5HDD.cfm
+
+SuperChassic 216BA-R920LPB
+o 2U chassis support for max. motherboard size - 13" x 13.68",
+E-ATX and ATX. Support up to 12"x13" MB with rear 2.5" HDD option installed.
+o 24 x 2.5" hot-swap SAS/SATA drive bay
+o 24-port 2U SAS 6Gbps direct-attached backplane,
+support up to 24x 2.5-inch SAS2/SATA3 HDD/SSD
+o 1U 920W Redundant Platinum Super Quiet power supply W/PMbus
+o 7 low-profile expansion slot(s)
+o 3 x 8cm (7000 RPM) hot-swap PWM cooling fan(s)
+o Optional 5 x 6cm fan cooling module for 826B/216B
+Fine selection of Supermicro motherboards supported.
+http://www.supermicro.com/products/chassis/2U/216/SC216BA-R920LPB
+
+SUPERMICRO CSE-216BA-R920LPB Black 2U Rackmount Chassis 920W
+price: $1,131.20 (newegg - Feb 13, 2018)
+NOTE: This version only has the short PCI slots.
+https://www.newegg.com/Product/Product.aspx?Item=N82E16811152565
+
+Supermicro SC216
+2U SuperChassis 216
+Supermicro's SC216 maximizes storage capacity in a 2U form
+factor by offering 24 hot-swap 2.5" SAS3/SATA hard drive bays
+for applications requiring extra storage.  The chassis design
+optimizes every aspect of interior space without compromising
+superior cooling capabilities.  The SC216 is equipped with a
+redundant 740W, 920W and 1280W Platinum Level(95%)
+high-efficiency power supply for outstanding power savings,
+with specially designed optimized cooling, and 7 low-profile
+or WIO solution expansion slots for superior networking options.
+Quick-release, tool-less slide rails are available for quick
+installation.  SC216 with SAS3 support is the ideal storage
+chassis for mixed flash drive based storage solution.
+http://www.supermicro.com/products/chassis/2U/?chs=216
