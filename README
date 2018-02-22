@@ -5,19 +5,21 @@ Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
 
 Filelist
 ========
-CSE-216.txt
-  2U, 24x 2.5" HDDs, Storage Chassis
-  SC216 series - Maximized Storage Chassis
-  The SC216 Chassis maximizes storage capacity in a
-  2U form factor by offering 24 hot-swap 2.5" SAS/SATA
-  hard drive bays for applications requiring extra
-  storage.  The chassis design optimizes every aspect
-  of interior space without compromising superior cooling
-  capabilities.  The chassis is equipped with a redundant
-  Gold Level 1200W (93%) or 900W high-efficiency power
-  supply for outstanding power savings, with specially
-  designed optimized cooling.
-  https://www.supermicro.com/products/chassis/2U/?chs=216
+SC216.txt
+  2U SuperChassis 216
+  Supermicro's SC216 maximizes storage capacity in a 2U form
+  factor by offering 24 hot-swap 2.5" SAS3/SATA hard drive bays
+  for applications requiring extra storage.  The chassis design
+  optimizes every aspect of interior space without compromising
+  superior cooling capabilities. The SC216 is equipped with a
+  redundant 740W, 920W and 1280W Platinum Level(95%)
+  high-efficiency power supply for outstanding power savings,
+  with specially designed optimized cooling, and 7 low-profile
+  or WIO solution expansion slots for superior networking
+  options. Quick-release, tool-less slide rails are available
+  for quick installation. SC216 with SAS3 support is the ideal
+  storage chassis for mixed flash drive based storage solution.
+  http://www.supermicro.com/products/chassis/2U/?chs=216
 
 links.txt
-  CSE-216 related links
+  SC216 related links
